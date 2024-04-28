@@ -9,7 +9,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=milhouse1337&show_icons=true&theme=light&border=false&hide_rank=true&include_all_commits=true&show=prs_merged" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=milhouse1337&show_icons=true&theme=light&border=false&hide_rank=true&include_all_commits=true&show=prs_merged" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=milhouse1337&show_icons=true&theme=dask&border=false&hide_rank=true&include_all_commits=true&show=prs_merged" />
 </picture>
 
 I can describe myself as a passionate hacker/entrepreneur who loves to build stuff. Sometimes, I tear things apart to see how they work, but I always try not to break them. 😅
