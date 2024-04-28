@@ -12,8 +12,10 @@
     <img align="right" alt="stats" width="400px"/>
 </picture>
 
+I can describe myself as a passionate hacker/entrepreneur who loves to build stuff. Sometimes, I tear things apart to see how they work, but I always try not to break them. 😅
+
 - 🇨🇦 From Montreal, Canada
-- 🎉 Cofounded Trinary, a webdev shop based in Montreal
+- 🎉 Cofounded [Trinary](https://trinary.ca), a webdev shop based in Montreal
 - 🚜 Built a few fun apps and projects
 - 🌱 I’m currently learning about AI/ML
 - 💬 Ask me about startups and old movies
